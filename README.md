@@ -1,1 +1,1 @@
-# JavaStrategy
+# ATIVIDADE DO PADRÃO STRATEGY
